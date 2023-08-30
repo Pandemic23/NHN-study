@@ -1,0 +1,11 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "book 2" 7 times.(°ëæ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "book 1" 6 times.(ø­«á
+\
+java:S1192)"GDefine a constant instead of duplicating this literal "book 3" 3 times.(ı£º
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜€ Ú
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø•„¾øÿÿÿÿ
+H
+java:S5960"+Remove this assertion from production code.(ÄÀàÇ8æ‘‰´¤1
